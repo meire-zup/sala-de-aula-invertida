@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ec8ef0-6fbd-40d9-9109-7e36a1239ca5" name="Changes" comment="">
+    <list default="true" id="d1ec8ef0-6fbd-40d9-9109-7e36a1239ca5" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista1/Exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lista1/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista1/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista1/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista1/Exercicio7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista1/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista1/Exercicio8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista1/Exercicio9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista1/Exercicio9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lista1/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lista1/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lista1/Teste.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "onboarding.tips.debug.path": "C:/Users/jucemeire.lopes/IdeaProjects/sala-de-aula-invertida/src/Main.java"
   }
 }]]></component>
@@ -55,6 +61,11 @@
       <updated>1685540875104</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inicial" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

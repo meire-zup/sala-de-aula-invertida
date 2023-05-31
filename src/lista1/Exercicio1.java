@@ -1,10 +1,7 @@
 package lista1;
 
 import java.sql.Array;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 /*
     Faça um programa que pergunte o preço de três produtos e
@@ -21,9 +18,19 @@ public class Exercicio1 {
             String nomeProduto = "produto"+i;
             produtos.put(nomeProduto,preço);
         }
-
-        System.out.println(produtos);
-
+        Double menorPreco = Double.MAX_VALUE;
+        String produtoMenorValor = null;
+        for (Map.Entry<String, Double> entry : produtos.entrySet()) {
+            String produto = entry.getKey();
+            Double preco =entry.getValue();
+            if(preco<menorPreco) {
+                menorPreco = preco;
+                produtoMenorValor = produto;
+            }
+        }
+        System.out.println("Produto mais barato: "+produtoMenorValor);
+        System.out.println("Preço: R$ "+menorPreco);
         }
     }
+
 
