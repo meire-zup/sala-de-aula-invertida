@@ -10,6 +10,7 @@ import java.util.*;
  */
 public class Exercicio1 {
     public static void main(String[] args) {
+        //testando
         Map<String, Double> produtos = new HashMap<>();
         Scanner scanner = new Scanner(System.in);
         for (int i = 1; i <= 3; i++) {
